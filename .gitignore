@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+*/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.pytest_cache/
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+
+# Cython debug symbols
+cython_debug/
+
+# Virtual environment
+venv/
+*.venv

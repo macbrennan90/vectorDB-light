@@ -1,0 +1,52 @@
+[
+    {
+        "doc_id": 0,
+        "text": "The hustle and bustle of New York City never stops, with people always on the move.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    },
+    {
+        "doc_id": 1,
+        "text": "Central Park is a peaceful oasis in the middle of the city, providing a much-needed escape from urban life.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    },
+    {
+        "doc_id": 2,
+        "text": "The iconic yellow taxis are a defining feature of the city, making transportation convenient and easily accessible.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    },
+    {
+        "doc_id": 3,
+        "text": "The NYC subway system is extensive and can be both intimidating and efficient for navigating the city.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    },
+    {
+        "doc_id": 4,
+        "text": "New York City's skyline is a breathtaking sight, featuring iconic buildings like the Empire State Building and the One World Trade Center.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    },
+    {
+        "doc_id": 5,
+        "text": "The city's diverse food scene offers a wide range of culinary experiences, from street vendors to Michelin-starred restaurants.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    },
+    {
+        "doc_id": 6,
+        "text": "New York City is a melting pot of cultures, with residents from around the world calling it home.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    },
+    {
+        "doc_id": 7,
+        "text": "Broadway shows are a major attraction, showcasing some of the best theatrical performances and talent.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    },
+    {
+        "doc_id": 8,
+        "text": "The city's numerous museums, like the Metropolitan Museum of Art and the Museum of Modern Art, offer incredible collections and exhibits.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    },
+    {
+        "doc_id": 9,
+        "text": "Times Square is a bustling hub of activity, with its bright lights, billboards, and large crowds of people.",
+        "metadata": {"source": "example", "date": "2023-04-18"}
+    }
+]
