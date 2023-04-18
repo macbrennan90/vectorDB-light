@@ -1,4 +1,4 @@
-# My Vector DB
+# Vector DB
 
 A Python module to create and query a simple vector database using document embeddings.
 
@@ -14,13 +14,13 @@ A Python module to create and query a simple vector database using document embe
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/my_vector_db.git
+git clone https://github.com/macbrennan90/vectorDB-light.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd my_vector_db
+cd vectorDB-light
 ```
 
 3. Install the package and its dependencies:
@@ -34,13 +34,13 @@ pip install -r requirements.txt
 To use the `VectorDB` class in your project, simply import it:
 
 ```
-from my_vector_db import VectorDB
+from vector_db import VectorDB
 ```
 
 ### Example
 
 ```
-from my_vector_db import VectorDB
+from vector_db import VectorDB
 import your_embedding_model
 
 vector_db = VectorDB(your_embedding_model)
